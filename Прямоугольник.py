@@ -40,7 +40,7 @@ class Rectangle:
         return None
 
 
-# Пример использования класса
+
 rect1 = Rectangle(0, 0, 5, 5)
 rect2 = Rectangle(3, 3, 7, 4)
 
